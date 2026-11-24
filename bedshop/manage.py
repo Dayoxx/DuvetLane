@@ -1,0 +1,2 @@
+def manage():
+    pass
